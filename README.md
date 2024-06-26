@@ -1,5 +1,5 @@
 ## Hi there 👋
--[Flutter Projects published by Yongjin.com][2024.06.26 ~]
+-'Flutter Projects' published by Yongjin.com[2024.06.26 ~]
 <!--
 [Flutter Projects published by Yongjin.com]
 **Hw0o0c/Hw0o0c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
